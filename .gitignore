@@ -1,0 +1,19 @@
+# ---- 构建产物：不进仓库，用 GitHub Release 分发 ----
+dist/
+*.apk
+*.idsig
+
+# ---- 签名私钥：绝不入库（本地务必备份）----
+keystore/
+*.jks
+*.keystore
+
+# ---- 编辑器 / 系统 ----
+.vs/
+.idea/
+*.user
+*.suo
+
+# ---- 杂项 ----
+*.log
+Thumbs.db

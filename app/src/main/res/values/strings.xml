@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi 守门员</string>
+    <string name="channel_name">WiFi 监控</string>
+    <string name="channel_desc">保持 WiFi 断网检测与自动重连</string>
+</resources>
